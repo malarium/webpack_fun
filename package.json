@@ -20,6 +20,8 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "@vimeo/player": "^2.18.0",
+    "bootstrap": "^5.2.3",
     "lodash": "^4.17.21"
   }
 }
